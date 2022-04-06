@@ -1,7 +1,7 @@
 body{
-    background-color: black;
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-branco-elegante-textura_23-2148438345.jpg");
+    color: black;
+    font-family: 'Helvetica Neue', Helvetica,Arial, Helvetica, sans-serif;
     display: grid;
 }
 
@@ -21,12 +21,14 @@ nav{
     flex-direction: row;
     justify-content: center;
     padding: 15px;
-    background-color: rgb(20, 20, 20);
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-abstrato-azul_1393-339.jpg?size=626&ext=jpg&ga=GA1.1.1583564722.1642723200");
+    background-attachment: fixed;
+    background-position: center;
 }
 
 nav > a {
     text-decoration: none;
-    color: silver;
+    color: white;
     font-weight: bold;
     padding: 0px 20px;
 }
@@ -54,9 +56,13 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content:center;
-    background-color: rgb(20, 20, 20);
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-abstrato-azul_1393-339.jpg?size=626&ext=jpg&ga=GA1.1.1583564722.1642723200");
 }
 
 div#devs{
     padding-right: 100px;
+    color: #FFFFFF;
+}
+div#redes{
+    color: #FFFFFF;
 }
