@@ -58,7 +58,9 @@ footer{
     justify-content:center;
     background-image: url("https://img.freepik.com/vetores-gratis/fundo-abstrato-azul_1393-339.jpg?size=626&ext=jpg&ga=GA1.1.1583564722.1642723200");
 }
-
+a {
+    color: #FFFFFF;
+}
 div#devs{
     padding-right: 100px;
     color: #FFFFFF;
